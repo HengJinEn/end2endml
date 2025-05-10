@@ -128,8 +128,8 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.notebooks/
-.artifacts/
+notebook/
+artifacts/
 .env
 .venv
 env/
